@@ -73,6 +73,14 @@
         {
             "type": 0,
             "weaponImageId": 12
+        },
+        {
+            "type": 0,
+            "weaponImageId": 13
+        },
+        {
+            "type": 0,
+            "weaponImageId": 14
         }
     ],
     "battleBgm": {
@@ -111,7 +119,7 @@
         "Physique",
         "Feu",
         "Glace",
-        "Tonnerre",
+        "Foudre",
         "Eau",
         "Terre",
         "Vent",
@@ -145,12 +153,12 @@
         true,
         true
     ],
-    "optDisplayTp": true,
+    "optDisplayTp": false,
     "optDrawTitle": true,
-    "optExtraExp": false,
+    "optExtraExp": true,
     "optFloorDeath": false,
-    "optFollowers": true,
-    "optSideView": false,
+    "optFollowers": false,
+    "optSideView": true,
     "optSlipDeath": false,
     "optTransparent": false,
     "partyMembers": [
@@ -353,22 +361,22 @@
         "basic": [
             "Niveau",
             "Nv",
-            "HP",
-            "HP",
-            "MP",
-            "MP",
-            "TP",
-            "TP",
+            "PV",
+            "PV",
+            "PM",
+            "PM",
+            "PT",
+            "PT",
             "EXP",
             "EXP"
         ],
         "commands": [
             "Combattre",
-            "Fuire",
+            "Fuir",
             "Attaque",
             "Garde",
             "Objet",
-            "Comp.",
+            "Comp\u00e9tences",
             "\u00c9quiper",
             "Statut",
             "Formation",
@@ -444,15 +452,15 @@
             "victory": "%1 est victorieux !"
         },
         "params": [
-            "Max HP",
-            "Max MP",
+            "PV Max",
+            "PM Max",
             "Attaque",
             "D\u00e9fense",
             "Attaque M.",
             "D\u00e9fense M.",
             "Agilit\u00e9",
             "Chance",
-            "Coup",
+            "Pr\u00e9cision",
             "\u00c9vasion"
         ]
     },
@@ -503,7 +511,7 @@
         }
     ],
     "testTroopId": 4,
-    "title1Name": "Castle",
+    "title1Name": "Night",
     "title2Name": "",
     "titleBgm": {
         "name": "Theme6",
@@ -554,7 +562,9 @@
         "Pistolet",
         "Griffe",
         "Gant",
-        "Lance"
+        "Lance",
+        "Masse",
+        "B\u00e2ton"
     ],
     "windowTone": [
         0,

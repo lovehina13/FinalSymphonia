@@ -1152,7 +1152,7 @@
             ]
         ],
         "id": 5,
-        "name": "Frapper Tonnerre",
+        "name": "Frapper Foudre",
         "position": 1,
         "timings": [
             {
@@ -2031,7 +2031,7 @@
             ]
         ],
         "id": 10,
-        "name": "Trancher Tonnerre",
+        "name": "Trancher Foudre",
         "position": 1,
         "timings": [
             {
@@ -3487,7 +3487,7 @@
             ]
         ],
         "id": 15,
-        "name": "Transpercer Tonnerre",
+        "name": "Transpercer Foudre",
         "position": 1,
         "timings": [
             {
@@ -4640,7 +4640,7 @@
             ]
         ],
         "id": 20,
-        "name": "Griffer Tonnerre",
+        "name": "Griffer Foudre",
         "position": 1,
         "timings": [
             {
@@ -71717,7 +71717,7 @@
             ]
         ],
         "id": 76,
-        "name": "Tonnerre Un 1",
+        "name": "Foudre Un 1",
         "position": 2,
         "timings": [
             {
@@ -71960,7 +71960,7 @@
             []
         ],
         "id": 77,
-        "name": "Tonnerre Un 2",
+        "name": "Foudre Un 2",
         "position": 1,
         "timings": [
             {
@@ -74183,7 +74183,7 @@
             ]
         ],
         "id": 78,
-        "name": "Tonnerre Tous 1",
+        "name": "Foudre Tous 1",
         "position": 3,
         "timings": [
             {
@@ -74689,7 +74689,7 @@
             ]
         ],
         "id": 79,
-        "name": "Tonnerre Tous 2",
+        "name": "Foudre Tous 2",
         "position": 3,
         "timings": [
             {
@@ -76320,7 +76320,7 @@
             ]
         ],
         "id": 80,
-        "name": "Tonnerre Tous 3",
+        "name": "Foudre Tous 3",
         "position": 3,
         "timings": [
             {
