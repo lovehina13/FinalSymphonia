@@ -12,15 +12,20 @@
             {
                 "level": 1,
                 "note": "",
-                "skillId": 8
+                "skillId": 2
             },
             {
-                "level": 1,
+                "level": 5,
                 "note": "",
-                "skillId": 10
+                "skillId": 4
+            },
+            {
+                "level": 10,
+                "note": "",
+                "skillId": 5
             }
         ],
-        "name": "H\u00e9ro",
+        "name": "Chevalier",
         "note": "",
         "params": [
             [
@@ -896,7 +901,18 @@
             30
         ],
         "id": 2,
-        "learnings": [],
+        "learnings": [
+            {
+                "level": 1,
+                "note": "",
+                "skillId": 2
+            },
+            {
+                "level": 5,
+                "note": "",
+                "skillId": 3
+            }
+        ],
         "name": "Guerrier",
         "note": "",
         "params": [
@@ -1762,16 +1778,6 @@
                 "code": 52,
                 "dataId": 4,
                 "value": 0
-            },
-            {
-                "code": 52,
-                "dataId": 5,
-                "value": 0
-            },
-            {
-                "code": 52,
-                "dataId": 6,
-                "value": 0
             }
         ]
     },
@@ -1787,7 +1793,67 @@
             {
                 "level": 1,
                 "note": "",
-                "skillId": 9
+                "skillId": 2
+            },
+            {
+                "level": 1,
+                "note": "",
+                "skillId": 73
+            },
+            {
+                "level": 1,
+                "note": "",
+                "skillId": 78
+            },
+            {
+                "level": 3,
+                "note": "",
+                "skillId": 83
+            },
+            {
+                "level": 3,
+                "note": "",
+                "skillId": 88
+            },
+            {
+                "level": 5,
+                "note": "",
+                "skillId": 93
+            },
+            {
+                "level": 5,
+                "note": "",
+                "skillId": 98
+            },
+            {
+                "level": 10,
+                "note": "",
+                "skillId": 75
+            },
+            {
+                "level": 10,
+                "note": "",
+                "skillId": 80
+            },
+            {
+                "level": 12,
+                "note": "",
+                "skillId": 85
+            },
+            {
+                "level": 12,
+                "note": "",
+                "skillId": 90
+            },
+            {
+                "level": 14,
+                "note": "",
+                "skillId": 95
+            },
+            {
+                "level": 14,
+                "note": "",
+                "skillId": 100
             }
         ],
         "name": "Mage",
@@ -2665,7 +2731,32 @@
             {
                 "level": 1,
                 "note": "",
-                "skillId": 8
+                "skillId": 2
+            },
+            {
+                "level": 1,
+                "note": "",
+                "skillId": 48
+            },
+            {
+                "level": 1,
+                "note": "",
+                "skillId": 103
+            },
+            {
+                "level": 3,
+                "note": "",
+                "skillId": 52
+            },
+            {
+                "level": 5,
+                "note": "",
+                "skillId": 56
+            },
+            {
+                "level": 10,
+                "note": "",
+                "skillId": 50
             }
         ],
         "name": "Pr\u00eatre",
@@ -3516,7 +3607,7 @@
             },
             {
                 "code": 51,
-                "dataId": 7,
+                "dataId": 6,
                 "value": 0
             },
             {
