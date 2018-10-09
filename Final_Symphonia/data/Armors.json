@@ -2,7 +2,7 @@
     null,
     {
         "atypeId": 5,
-        "description": "",
+        "description": "Un bouclier en bois.",
         "etypeId": 2,
         "iconIndex": 128,
         "id": 1,
@@ -29,7 +29,7 @@
     },
     {
         "atypeId": 1,
-        "description": "",
+        "description": "Un casque en bronze.",
         "etypeId": 3,
         "iconIndex": 130,
         "id": 2,
@@ -56,7 +56,7 @@
     },
     {
         "atypeId": 1,
-        "description": "",
+        "description": "Une tunique simple.",
         "etypeId": 4,
         "iconIndex": 135,
         "id": 3,
@@ -83,7 +83,7 @@
     },
     {
         "atypeId": 1,
-        "description": "",
+        "description": "Une bague magique.",
         "etypeId": 5,
         "iconIndex": 145,
         "id": 4,

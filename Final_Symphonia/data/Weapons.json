@@ -2,7 +2,7 @@
     null,
     {
         "animationId": 6,
-        "description": "",
+        "description": "Une \u00e9p\u00e9e simple.",
         "etypeId": 1,
         "iconIndex": 97,
         "id": 1,
@@ -35,7 +35,7 @@
     },
     {
         "animationId": 6,
-        "description": "",
+        "description": "Une hache de guerre.",
         "etypeId": 1,
         "iconIndex": 99,
         "id": 2,
@@ -68,7 +68,7 @@
     },
     {
         "animationId": 1,
-        "description": "",
+        "description": "Une canne magique.",
         "etypeId": 1,
         "iconIndex": 101,
         "id": 3,
@@ -101,7 +101,7 @@
     },
     {
         "animationId": 11,
-        "description": "",
+        "description": "Un arc de chasse.",
         "etypeId": 1,
         "iconIndex": 102,
         "id": 4,

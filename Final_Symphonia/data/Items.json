@@ -10,7 +10,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "",
+        "description": "Restaure 500 PV d'un alli\u00e9.",
         "effects": [
             {
                 "code": 11,
@@ -43,7 +43,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "",
+        "description": "Restaure 200 PM d'un alli\u00e9.",
         "effects": [
             {
                 "code": 12,
@@ -76,7 +76,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "",
+        "description": "Gu\u00e9rit les alt\u00e9rations d'un alli\u00e9.",
         "effects": [
             {
                 "code": 22,
@@ -145,12 +145,18 @@
             "type": 3,
             "variance": 20
         },
-        "description": "",
+        "description": "Ranime un alli\u00e9.",
         "effects": [
             {
                 "code": 22,
                 "dataId": 1,
                 "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 11,
+                "dataId": 0,
+                "value1": 0.25,
                 "value2": 0
             }
         ],
