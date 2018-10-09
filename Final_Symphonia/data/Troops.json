@@ -6,17 +6,17 @@
             {
                 "enemyId": 1,
                 "hidden": false,
-                "x": 336,
+                "x": 361,
                 "y": 436
             },
             {
                 "enemyId": 1,
                 "hidden": false,
-                "x": 480,
+                "x": 456,
                 "y": 436
             }
         ],
-        "name": "Chauve-souris*2",
+        "name": "Rat*2",
         "pages": [
             {
                 "conditions": {
@@ -50,17 +50,17 @@
             {
                 "enemyId": 2,
                 "hidden": false,
-                "x": 337,
+                "x": 290,
                 "y": 436
             },
             {
                 "enemyId": 2,
                 "hidden": false,
-                "x": 480,
+                "x": 527,
                 "y": 436
             }
         ],
-        "name": "Slime*2",
+        "name": "Soldat*2",
         "pages": [
             {
                 "conditions": {
@@ -98,7 +98,7 @@
                 "y": 436
             }
         ],
-        "name": "Orc",
+        "name": "Capitaine",
         "pages": [
             {
                 "conditions": {
@@ -136,7 +136,7 @@
                 "y": 436
             }
         ],
-        "name": "Minotaure",
+        "name": "G\u00e9n\u00e9rale",
         "pages": [
             {
                 "conditions": {

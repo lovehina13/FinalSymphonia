@@ -11,12 +11,12 @@
             }
         ],
         "battlerHue": 0,
-        "battlerName": "Bat",
+        "battlerName": "Rat",
         "dropItems": [
             {
                 "dataId": 1,
-                "denominator": 1,
-                "kind": 0
+                "denominator": 4,
+                "kind": 1
             },
             {
                 "dataId": 1,
@@ -29,20 +29,20 @@
                 "kind": 0
             }
         ],
-        "exp": 0,
-        "gold": 0,
+        "exp": 10,
+        "gold": 2,
         "id": 1,
-        "name": "Chauve-souris",
+        "name": "Rat",
         "note": "",
         "params": [
-            200,
+            100,
             0,
-            30,
-            30,
-            30,
-            30,
-            30,
-            30
+            20,
+            20,
+            20,
+            20,
+            20,
+            20
         ],
         "traits": [
             {
@@ -70,15 +70,22 @@
                 "conditionType": 0,
                 "rating": 5,
                 "skillId": 1
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 4
             }
         ],
         "battlerHue": 0,
-        "battlerName": "Slime",
+        "battlerName": "Soldier",
         "dropItems": [
             {
                 "dataId": 1,
-                "denominator": 1,
-                "kind": 0
+                "denominator": 4,
+                "kind": 1
             },
             {
                 "dataId": 1,
@@ -91,20 +98,20 @@
                 "kind": 0
             }
         ],
-        "exp": 0,
-        "gold": 0,
+        "exp": 25,
+        "gold": 5,
         "id": 2,
-        "name": "Slime",
+        "name": "Soldat",
         "note": "",
         "params": [
             250,
             0,
-            30,
-            30,
-            30,
-            30,
-            30,
-            30
+            25,
+            25,
+            25,
+            25,
+            25,
+            25
         ],
         "traits": [
             {
@@ -132,93 +139,38 @@
                 "conditionType": 0,
                 "rating": 5,
                 "skillId": 1
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.5,
+                "conditionType": 2,
+                "rating": 5,
+                "skillId": 48
             }
         ],
         "battlerHue": 0,
-        "battlerName": "Orc",
+        "battlerName": "Swordsman",
         "dropItems": [
             {
-                "dataId": 1,
-                "denominator": 1,
-                "kind": 0
+                "dataId": 2,
+                "denominator": 4,
+                "kind": 1
             },
             {
-                "dataId": 1,
-                "denominator": 1,
-                "kind": 0
+                "dataId": 3,
+                "denominator": 4,
+                "kind": 1
             },
             {
-                "dataId": 1,
-                "denominator": 1,
-                "kind": 0
+                "dataId": 4,
+                "denominator": 8,
+                "kind": 1
             }
         ],
-        "exp": 0,
-        "gold": 0,
+        "exp": 50,
+        "gold": 10,
         "id": 3,
-        "name": "Orc",
-        "note": "",
-        "params": [
-            300,
-            0,
-            30,
-            30,
-            30,
-            30,
-            30,
-            30
-        ],
-        "traits": [
-            {
-                "code": 22,
-                "dataId": 0,
-                "value": 0.95
-            },
-            {
-                "code": 22,
-                "dataId": 1,
-                "value": 0.05
-            },
-            {
-                "code": 31,
-                "dataId": 1,
-                "value": 0
-            }
-        ]
-    },
-    {
-        "actions": [
-            {
-                "conditionParam1": 0,
-                "conditionParam2": 0,
-                "conditionType": 0,
-                "rating": 5,
-                "skillId": 1
-            }
-        ],
-        "battlerHue": 0,
-        "battlerName": "Minotaur",
-        "dropItems": [
-            {
-                "dataId": 1,
-                "denominator": 1,
-                "kind": 0
-            },
-            {
-                "dataId": 1,
-                "denominator": 1,
-                "kind": 0
-            },
-            {
-                "dataId": 1,
-                "denominator": 1,
-                "kind": 0
-            }
-        ],
-        "exp": 0,
-        "gold": 0,
-        "id": 4,
-        "name": "Minotaure",
+        "name": "Capitaine",
         "note": "",
         "params": [
             500,
@@ -229,6 +181,96 @@
             30,
             30,
             30
+        ],
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ]
+    },
+    {
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 3
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.5,
+                "conditionType": 2,
+                "rating": 5,
+                "skillId": 48
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 73
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 78
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "General_f",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 400,
+        "gold": 100,
+        "id": 4,
+        "name": "G\u00e9n\u00e9rale",
+        "note": "",
+        "params": [
+            4000,
+            0,
+            40,
+            40,
+            40,
+            40,
+            40,
+            40
         ],
         "traits": [
             {
