@@ -6,7 +6,25 @@
         "name": "MAP001",
         "order": 1,
         "parentId": 0,
-        "scrollX": 411.5,
-        "scrollY": 334
+        "scrollX": 535,
+        "scrollY": 369.5
+    },
+    {
+        "expanded": false,
+        "id": 2,
+        "name": "MAP002",
+        "order": 2,
+        "parentId": 0,
+        "scrollX": 535,
+        "scrollY": 369.5
+    },
+    {
+        "expanded": false,
+        "id": 3,
+        "name": "MAP003",
+        "order": 3,
+        "parentId": 0,
+        "scrollX": 535,
+        "scrollY": 369.5
     }
 ]
