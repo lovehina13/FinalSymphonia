@@ -14,7 +14,7 @@
         "battlerName": "Rat",
         "dropItems": [
             {
-                "dataId": 1,
+                "dataId": 3,
                 "denominator": 4,
                 "kind": 1
             },
@@ -83,7 +83,7 @@
         "battlerName": "Soldier",
         "dropItems": [
             {
-                "dataId": 1,
+                "dataId": 3,
                 "denominator": 4,
                 "kind": 1
             },
@@ -152,17 +152,17 @@
         "battlerName": "Swordsman",
         "dropItems": [
             {
-                "dataId": 2,
-                "denominator": 4,
-                "kind": 1
-            },
-            {
-                "dataId": 3,
-                "denominator": 4,
-                "kind": 1
-            },
-            {
                 "dataId": 4,
+                "denominator": 4,
+                "kind": 1
+            },
+            {
+                "dataId": 5,
+                "denominator": 4,
+                "kind": 1
+            },
+            {
+                "dataId": 6,
                 "denominator": 8,
                 "kind": 1
             }

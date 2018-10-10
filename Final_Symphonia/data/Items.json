@@ -1,6 +1,72 @@
 [
     null,
     {
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un livre recensant les objets obtenus.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 1,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 189,
+        "id": 1,
+        "itypeId": 2,
+        "name": "Encyclop\u00e9die",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un livre recensant les ennemis rencontr\u00e9s.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 2,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 189,
+        "id": 2,
+        "itypeId": 2,
+        "name": "Bestiaire",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
         "animationId": 41,
         "consumable": true,
         "damage": {
@@ -21,7 +87,7 @@
         ],
         "hitType": 0,
         "iconIndex": 176,
-        "id": 1,
+        "id": 3,
         "itypeId": 1,
         "name": "Potion",
         "note": "",
@@ -54,9 +120,9 @@
         ],
         "hitType": 0,
         "iconIndex": 176,
-        "id": 2,
+        "id": 4,
         "itypeId": 1,
-        "name": "Eau Magique",
+        "name": "Eau magique",
         "note": "",
         "occasion": 0,
         "price": 100,
@@ -123,9 +189,9 @@
         ],
         "hitType": 0,
         "iconIndex": 176,
-        "id": 3,
+        "id": 5,
         "itypeId": 1,
-        "name": "Herbe Dissipatrice",
+        "name": "Herbe dissipatrice",
         "note": "",
         "occasion": 0,
         "price": 200,
@@ -162,7 +228,7 @@
         ],
         "hitType": 0,
         "iconIndex": 176,
-        "id": 4,
+        "id": 6,
         "itypeId": 1,
         "name": "Stimulant",
         "note": "",
