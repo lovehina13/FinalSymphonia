@@ -183,7 +183,8 @@
     "skillTypes": [
         "",
         "Magie",
-        "Sp\u00e9ciale"
+        "Sp\u00e9ciale",
+        "Techniques"
     ],
     "sounds": [
         {
@@ -501,7 +502,7 @@
         {
             "actorId": 4,
             "equips": [
-                4,
+                3,
                 0,
                 2,
                 3,
