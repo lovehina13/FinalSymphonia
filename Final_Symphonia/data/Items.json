@@ -207,7 +207,7 @@
         "damage": {
             "critical": false,
             "elementId": 0,
-            "formula": "b.mhp / 2",
+            "formula": "b.mhp / 4",
             "type": 3,
             "variance": 20
         },
@@ -217,12 +217,6 @@
                 "code": 22,
                 "dataId": 1,
                 "value1": 1,
-                "value2": 0
-            },
-            {
-                "code": 11,
-                "dataId": 0,
-                "value1": 0.25,
                 "value2": 0
             }
         ],
