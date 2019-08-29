@@ -6,8 +6,8 @@
         "name": "MAP001",
         "order": 1,
         "parentId": 0,
-        "scrollX": 535,
-        "scrollY": 369.5
+        "scrollX": 0,
+        "scrollY": 0
     },
     {
         "expanded": false,
@@ -15,8 +15,8 @@
         "name": "MAP002",
         "order": 2,
         "parentId": 0,
-        "scrollX": 535,
-        "scrollY": 369.5
+        "scrollX": 0,
+        "scrollY": 0
     },
     {
         "expanded": false,
@@ -24,7 +24,7 @@
         "name": "MAP003",
         "order": 3,
         "parentId": 0,
-        "scrollX": 535,
-        "scrollY": 369.5
+        "scrollX": 0,
+        "scrollY": 0
     }
 ]
