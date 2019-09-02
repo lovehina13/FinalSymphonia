@@ -194,7 +194,7 @@
         "name": "Herbe dissipatrice",
         "note": "",
         "occasion": 0,
-        "price": 200,
+        "price": 100,
         "repeats": 1,
         "scope": 7,
         "speed": 0,
@@ -207,8 +207,8 @@
         "damage": {
             "critical": false,
             "elementId": 0,
-            "formula": "b.mhp / 4",
-            "type": 3,
+            "formula": "0",
+            "type": 0,
             "variance": 20
         },
         "description": "Ranime un alli\u00e9.",
@@ -217,6 +217,18 @@
                 "code": 22,
                 "dataId": 1,
                 "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 11,
+                "dataId": 0,
+                "value1": 0.25,
+                "value2": 0
+            },
+            {
+                "code": 12,
+                "dataId": 0,
+                "value1": 0.25,
                 "value2": 0
             }
         ],
@@ -227,7 +239,7 @@
         "name": "Stimulant",
         "note": "",
         "occasion": 0,
-        "price": 300,
+        "price": 200,
         "repeats": 1,
         "scope": 9,
         "speed": 0,

@@ -1886,6 +1886,12 @@
                 "dataId": 0,
                 "value1": 0.25,
                 "value2": 0
+            },
+            {
+                "code": 12,
+                "dataId": 0,
+                "value1": 0.25,
+                "value2": 0
             }
         ],
         "hitType": 0,
@@ -1926,6 +1932,12 @@
             },
             {
                 "code": 11,
+                "dataId": 0,
+                "value1": 0.25,
+                "value2": 0
+            },
+            {
+                "code": 12,
                 "dataId": 0,
                 "value1": 0.25,
                 "value2": 0
